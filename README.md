@@ -11,5 +11,4 @@ Um site para compartilhar suas receitas de café com outros desenvolvedores so m
 - ``CSS``
 
 ## 📁 Acesso ao projeto
-Você pode acessar o site do projeto clicando [aqui][(https://lounge-coffee.vercel.app)https://lounge-coffee.vercel.app)
-
+Você pode acessar o site do projeto clicando [aqui][(https://lounge-coffee-ol2h.vercel.app)]
